@@ -1,2 +1,2 @@
 # calculatorapp
-Simple calculator app for React Native
+Simple calculator app for Android/iOS using React Native
